@@ -1,6 +1,6 @@
 ### Hi 👋, I am Lasse Schultebraucks
 
-I am a 25 years old IT Consultant at [BROCKHAUS AG](https://www.brockhaus-ag.de/). 
+I am a 26 years old IT Consultant at [BROCKHAUS AG](https://www.brockhaus-ag.de/). 
 
 ![Lasse GitHub stats](https://github-readme-stats.vercel.app/api?username=lschultebraucks&show_icons=true&theme=dark)
 
